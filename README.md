@@ -10,6 +10,21 @@
 - 🧠 Focused on building **impactful products** and **robust systems**  
 - 📫 Reach me at: [prathameshghodmare10@gmail.com](mailto:prathameshghodmare10@gmail.com)
 - 🔗 Connect me at: [https://www.linkedin.com/in/prathamesh-ghodmare-86715929a/](https://www.linkedin.com/in/prathamesh-ghodmare-86715929a/)
+---
+
+## Coding Profiles
+
+<p align="left">
+  <a href="https://www.codechef.com/users/pratham_2o">
+    <img src="![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)"/>
+  </a>
+  <a href="https://leetcode.com/u/Prathamesh_Ghodmare/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://instagram.com/Pratham_2.o">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
