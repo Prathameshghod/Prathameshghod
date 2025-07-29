@@ -79,13 +79,13 @@
 
 ## 📌 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/mandar-gurjar-36a095259">
+  <a href="https://www.linkedin.com/in/prathamesh-ghodmare-86715929a/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/Hackur45">
+  <a href="https://github.com/Prathameshghod">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://instagram.com/mandar_g7">
+  <a href="https://instagram.com/Pratham_2.o">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
