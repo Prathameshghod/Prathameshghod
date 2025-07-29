@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
    <a href="https://codolio.com/profile/Prathamesh_2.o">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+    <img src="Codolio.svg" height="28" style="vertical-align:middle; margin-right: 6px;/>
   </a>
   
 </p>
