@@ -16,14 +16,24 @@
 
 <p align="left">
   <a href="https://www.codechef.com/users/pratham_2o">
-    <img src="![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Prathamesh_Ghodmare/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   </a>
-  <a href="https://instagram.com/Pratham_2.o">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://codeforces.com/profile/prathameshghodmare10">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
+   <a href="https://www.geeksforgeeks.org/user/prathameshgoj5r/">
+  <img src="assets/icons8-geeksforgeeks.svg" width="100" />
+</a>
+   <a href="https://www.hackerrank.com/profile/prathameshghodm1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+   <a href="https://codolio.com/profile/Prathamesh_2.o">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+  </a>
+  
 </p>
 
 ---
