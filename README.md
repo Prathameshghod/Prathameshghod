@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
   </a>
    <a href="https://www.geeksforgeeks.org/user/prathameshgoj5r/">
-  <img src="assets/icons8-geeksforgeeks.svg" width="100" />
+  <img src="icons8-geeksforgeeks.svg" height="28" style="vertical-align:middle; margin-right: 6px;" />
 </a>
    <a href="https://www.hackerrank.com/profile/prathameshghodm1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
