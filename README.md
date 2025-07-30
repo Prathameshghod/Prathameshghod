@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=4999&pause=1002&color=CAF7B9&background=FF009A00&width=537&height=52&lines=Hey+There%2C+I'm+Prathamesh+Ghodmare%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=4999&pause=1002&color=800080&background=FF009A00&width=537&height=52&lines=Hey+There%2C+I'm+Prathamesh+Ghodmare%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🌐 About Me  
 
