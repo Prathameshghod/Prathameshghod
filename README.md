@@ -30,7 +30,7 @@
    <a href="https://www.hackerrank.com/profile/prathameshghodm1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
-   <a href="https://codolio.com/profile/Prathamesh_2.o">
+   <a href="https://codolio.com/profile/Prathamesh_Ghodmare">
     <img src="Codolio.svg" height="28" style="vertical-align:middle; margin-right: 6px;/>
   </a>
   
